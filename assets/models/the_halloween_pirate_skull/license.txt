@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Halloween Pirate Skull
+* source:	https://sketchfab.com/3d-models/the-halloween-pirate-skull-7743a10d48d74c8e814fa5b6759e1ddb
+* author:	Jefferson Frenay (https://sketchfab.com/MrTeckmachin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Halloween Pirate Skull" (https://sketchfab.com/3d-models/the-halloween-pirate-skull-7743a10d48d74c8e814fa5b6759e1ddb) by Jefferson Frenay (https://sketchfab.com/MrTeckmachin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
